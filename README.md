@@ -49,11 +49,13 @@ python src/main.py
 ``````
 The following is the expected output:
 
-![](Assets/Images/Terminal.png)
+![Screenshot 2024-01-22 111740](https://github.com/AGwillmkawy1/Sepsis-Prediction-FastApi-/assets/93640193/dd048902-126c-4d15-8bd2-154f15bbce0e)
+
 
 Go to your browser at the following address, to explore the api's documentation, which appears like below :
 
-![](Assets/Images/Interface.png)
+![Screenshot 2024-01-22 105402](https://github.com/AGwillmkawy1/Sepsis-Prediction-FastApi-/assets/93640193/ce804132-5481-44f4-8665-681cd4c7ef02)
+
 
 Follow this linke to explore the api's documentations:
 
